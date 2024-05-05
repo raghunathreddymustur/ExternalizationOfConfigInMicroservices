@@ -10,7 +10,7 @@ Mapping to Bean - Way Three
 ---------------
 #### Read multiple properties by mapping to a record
 1. Define the properties in properties file
-   ```
+   ``` properties
    accounts:
     message: "Welcome to EazyBank accounts related local APIs "
     contactDetails:

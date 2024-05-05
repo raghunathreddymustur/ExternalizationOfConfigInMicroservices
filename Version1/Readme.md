@@ -60,8 +60,18 @@ Mapping to Bean - Way Three
                 .body(accountsContactInfoDto);
     }
     ```
+Profiles In Springboot
+---------------------
+![img_2.png](img_2.png)
 
-   
+Various Ways to pass configuration properties in SpringBoot
+-----------------------------
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
     
+Passing properties in IntellijIdea
+--------------
+![img_7.png](img_7.png)
 
 
